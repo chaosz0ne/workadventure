@@ -58,6 +58,23 @@
                  "width":697.166666666667,
                  "x":758.5,
                  "y":564.166666666667
+                }, 
+                {
+                 "height":952,
+                 "id":15,
+                 "name":"visit chaoszone underground",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"daz4qSpWvlZzLbB57OymNTwsaeWqFxTt6li84Oi7KPEd4uYPoS"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":1416,
+                 "x":32,
+                 "y":1412
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2593,7 +2610,7 @@
          "y":0
         }],
  "nextlayerid":147,
- "nextobjectid":15,
+ "nextobjectid":16,
  "orientation":"orthogonal",
  "properties":[
         {
