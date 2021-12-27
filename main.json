@@ -2662,15 +2662,6 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"world:\/\/lobby\/chaoszone.json#start_plauen"
-                        }]
-                }, 
-                {
                  "id":3,
                  "properties":[
                         {
