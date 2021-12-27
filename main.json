@@ -687,7 +687,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world:\/\/c3d2\/main.json"
+                         "value":"world:\/\/C3D2\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
