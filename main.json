@@ -2103,7 +2103,7 @@
                  "height":75,
                  "id":117,
                  "name":"Projekt_2",
-                 "opacity":0,
+                 "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -2218,7 +2218,7 @@
                  "height":75,
                  "id":122,
                  "name":"Projekt_7",
-                 "opacity":0,
+                 "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -2241,7 +2241,7 @@
                  "height":75,
                  "id":124,
                  "name":"Projekt_8",
-                 "opacity":0,
+                 "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -2333,7 +2333,7 @@
                  "height":75,
                  "id":128,
                  "name":"Projekt_12",
-                 "opacity":0,
+                 "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -2356,7 +2356,7 @@
                  "height":75,
                  "id":129,
                  "name":"Projekt_13",
-                 "opacity":0,
+                 "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -2402,7 +2402,7 @@
                  "height":75,
                  "id":131,
                  "name":"Projekt_15",
-                 "opacity":0,
+                 "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -2425,7 +2425,7 @@
                  "height":75,
                  "id":132,
                  "name":"Projekt_16",
-                 "opacity":0,
+                 "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -2574,7 +2574,7 @@
          "height":75,
          "id":9,
          "name":"collision",
-         "opacity":0,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":75,
@@ -2586,7 +2586,7 @@
          "height":75,
          "id":23,
          "name":"nigth",
-         "opacity":0.77,
+         "opacity":0.8,
          "type":"tilelayer",
          "visible":true,
          "width":75,
