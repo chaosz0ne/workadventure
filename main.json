@@ -41,6 +41,23 @@
                  "width":156.666666666667,
                  "x":352,
                  "y":1218.66666666667
+                }, 
+                {
+                 "height":99,
+                 "id":14,
+                 "name":"ChaosZone Wintermarkt",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"gEr035d2xiTndYIlXYBefRMv7CkjmrRmK2ANEBhcmbeD6pVwzZ "
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":174.5,
+                 "x":786.5,
+                 "y":605.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2576,7 +2593,7 @@
          "y":0
         }],
  "nextlayerid":147,
- "nextobjectid":14,
+ "nextobjectid":15,
  "orientation":"orthogonal",
  "properties":[
         {
