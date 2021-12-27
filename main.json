@@ -75,6 +75,23 @@
                  "width":1416,
                  "x":32,
                  "y":1412
+                }, 
+                {
+                 "height":94,
+                 "id":16,
+                 "name":"cyBar",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"5fJZlulgzLB5TXhief7iFsmYj8jBRcHmulSkO0DedQxloHkoyu"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":166,
+                 "x":1851.33333333333,
+                 "y":1572
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -88,7 +105,7 @@
          "name":"nexteventlayer",
          "objects":[
                 {
-                 "height":32.3333333333333,
+                 "height":79,
                  "id":11,
                  "name":"nextevent chaoszone",
                  "properties":[
@@ -100,9 +117,9 @@
                  "rotation":0,
                  "type":"website",
                  "visible":true,
-                 "width":96.6666666666667,
-                 "x":1762.66666666667,
-                 "y":1281.33333333333
+                 "width":165.333333333333,
+                 "x":1751.33333333334,
+                 "y":1274
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2658,7 +2675,7 @@
          "y":0
         }],
  "nextlayerid":148,
- "nextobjectid":16,
+ "nextobjectid":17,
  "orientation":"orthogonal",
  "properties":[
         {
