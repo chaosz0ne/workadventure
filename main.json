@@ -737,12 +737,6 @@
                  "id":98,
                  "name":"exit_leipzig",
                  "opacity":1,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"world:\/\/dezentrale\/main.json"
-                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":75,
